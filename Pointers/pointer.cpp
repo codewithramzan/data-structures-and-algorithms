@@ -17,9 +17,12 @@ int main() {
 	// cout<< *ptr <<endl;
 	// cout<< **parPtr <<endl;
 	int x = 10 ;
-  int* ptr = &x;
+	int* ptr = &x;
 	cout<<x<<endl;
 
 	changeX(ptr);
 	cout<<x;
+	int arr[] = {34,45,56,67};
+	cout<< arr <<endl;
+	cout<<*(arr+3);
 }
