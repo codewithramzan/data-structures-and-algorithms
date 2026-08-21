@@ -1,0 +1,14 @@
+# C++ compiled files
+*.exe
+*.out
+*.o
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
