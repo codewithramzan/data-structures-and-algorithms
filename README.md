@@ -81,3 +81,104 @@ data-structures-and-algorithms/
 │
 ├── .gitignore
 └── README.md
+```
+---
+| Topic               | Status         |
+| ------------------- | -------------- |
+| Arrays              | 🟢 Learning    |
+| Strings             | 🟢 Learning    |
+| Linked Lists        | 🟡 In Progress |
+| Stack               | 🟡 In Progress |
+| Queue               | 🟡 In Progress |
+| Recursion           | 🟡 In Progress |
+| Searching           | 🟢 Learning    |
+| Sorting             | 🟢 Learning    |
+| Hashing             | ⚪ Upcoming     |
+| Trees               | ⚪ Upcoming     |
+| Graphs              | ⚪ Upcoming     |
+| Greedy Algorithms   | ⚪ Upcoming     |
+| Dynamic Programming | ⚪ Upcoming     |
+---
+🧩 Problem-Solving Approach
+For each important problem, I aim to document:
+
+  1. Problem statement
+  2.Approach
+  3.Algorithm
+  4. Implementation
+  5. Time complexity
+  6.Space complexity
+Example:
+  Problem
+     ↓
+  Understand
+     ↓
+  Find Approach
+     ↓
+  Implement
+     ↓
+  Test
+     ↓
+  Analyze Complexity
+
+🧮 Complexity Analysis
+
+I am also practicing the analysis of algorithms using Big O notation.
+
+Common complexities include:
+
+O(1)       Constant
+O(log n)   Logarithmic
+O(n)       Linear
+O(n log n) Linearithmic
+O(n²)      Quadratic
+O(2ⁿ)      Exponential
+
+🚀 Future Plans
+
+As this repository grows, I plan to add:
+
+More DSA problems
+More optimized solutions
+Interview-focused problems
+Competitive programming problems
+Advanced data structures
+Advanced algorithms
+C++ STL implementations
+JavaScript-based algorithm implementations
+Detailed problem explanations
+👨‍💻 About Me
+
+Ramzan Khan
+
+Full-Stack Developer | Computer Science Student | Future AI Engineer
+
+I am currently building my software engineering foundation through:
+
+Full-stack development
+Data structures and algorithms
+Problem solving
+Database engineering
+Software architecture
+Artificial intelligence and machine learning
+
+GitHub: @codewithramzan
+
+⭐ If you find this repository useful, consider giving it a star.
+
+
+
+## ⚠️ One small correction
+
+
+Because the repository is **brand new**, I don't want you to claim that you've already completed topics that you haven't.
+
+
+The `Learning Progress` table above is only a starting template. As you add actual solutions, we'll update it.
+
+
+For example, after you genuinely complete Arrays:
+
+
+```text
+Arrays | 🟢 Completed
