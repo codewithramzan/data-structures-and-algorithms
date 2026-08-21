@@ -167,18 +167,3 @@ GitHub: @codewithramzan
 ⭐ If you find this repository useful, consider giving it a star.
 
 
-
-## ⚠️ One small correction
-
-
-Because the repository is **brand new**, I don't want you to claim that you've already completed topics that you haven't.
-
-
-The `Learning Progress` table above is only a starting template. As you add actual solutions, we'll update it.
-
-
-For example, after you genuinely complete Arrays:
-
-
-```text
-Arrays | 🟢 Completed
