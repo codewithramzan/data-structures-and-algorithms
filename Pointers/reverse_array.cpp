@@ -5,7 +5,9 @@ using namespace std;
 void reverseArray(int* start, int* end){
   while (start < end)
   {
-    swap(*start, *end);
+    int temp = *start;
+    *start = *end;
+    *end = temp;
     start++;
     end--;
   }
