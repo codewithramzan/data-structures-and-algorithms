@@ -5,8 +5,9 @@ using namespace std;
 int findMax(int* ptr, int n) {
   int maxVal = *ptr;
   for(int i = 1; i < n; i++){
-    if(*(ptr+i) > maxVal) {
-      maxVal = *(ptr+i);
+    ptr++;
+    if(*ptr > maxVal) {
+      maxVal = *ptr;
     }
   }
 
